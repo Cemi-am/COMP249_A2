@@ -1,0 +1,29 @@
+Invalid Genre in line 4 of file movies1990.csv --> 1990,Predator 2,103,"Action",R,6.2,Stephen Hopkins,Adam Baldwin,Robert Davi,Kevin Peter Hall,
+For input string: ""6.1"" in line 14 of file movies1990.csv --> 1990,Dick Tracy,105,Action,PG,"6.1",Warren Beatty,Charlie Korsmo,Warren Beatty,Seymour Cassel,
+ExcessFieldsException in line 16 of file movies1990.csv --> 1990,Total Recall,113,Action,R,7.5,Paul Verhoeven,Ronny Cox,Rachel Ticotin,Marshall Bell,actor 4?
+Invalid Year in line 10 of file movies1991.csv --> 2991,Hudson Hawk,100,Action,R,5.7,Michael Lehmann,Bruce Willis,James Coburn,Richard E. Grant
+Invalid Rating in line 16 of file movies1991.csv --> 1991,Bill & Ted's Bogus Journey,93,Adventure,PJ,6.2,Peter Hewitt,Keanu Reeves,George Carlin,Alex Winter
+Invalid Duration in line 26 of file movies1991.csv --> 1991,Hook,333,Adventure,PG,6.7,Steven Spielberg,Robin Williams,Julia Roberts,Bob Hoskins
+For input string: "l992" in line 21 of file movies1992.csv --> l992,Unforgiven,131,Drama,R,8.3,Clint Eastwood,Clint Eastwood,Morgan Freeman,Frances Fisher
+Invalid Genre in line 27 of file movies1992.csv --> 1992,Batman Returns,126,Aktion,PG-13,7,Tim Burton,Michael Gough,Vincent Schiavelli,Andrew Bryniarski
+Invalid Score in line 29 of file movies1992.csv --> 1992,Aladdin,90,Adventure,G,80,Ron Clements,Robin Williams,Frank Welker,Scott Weinger
+Invalid Duration in line 7 of file movies1993.csv --> 1993,"Blood In, Blood Out",330,Crime,R,8,Taylor Hackford,Delroy Lindo,Jesse Borrego,Raymond Cruz
+Invalid Rating in line 8 of file movies1993.csv --> 1993,Dazed and Confused,102,Comedy,RRR,7.7,Richard Linklater,Milla Jovovich,Adam Goldberg,Cole Hauser
+Missing director in line 22 of file movies1993.csv --> 1993,Hocus Pocus,96,Comedy,PG,6.7,,Vinessa Shaw,Omri Katz,Larry Bagby
+Missing second actor in line 1 of file movies1994.csv --> 1994,There Goes My Baby,99,Comedy,R,6.4,Floyd Mutrux,Ricky Schroder,,Seymour Cassel
+Missing score in line 16 of file movies1994.csv --> 1994,Wyatt Earp,212,Adventure,PG-13,,Lawrence Kasdan,Dennis Quaid,Catherine O'Hara,Isabella Rossellini
+Missing duration in line 20 of file movies1994.csv --> 1994,Richie Rich,,Comedy,PG,5.2,Donald Petrie,Macaulay Culkin,John Larroquette,Jonathan Hyde
+Missing score in line 9 of file movies1996.csv --> 1996,Bound,109,Krime,R,,Lana Wachowski,Christopher Meloni,Kevin Michael Richardson,Peter Spellos
+Missing rating in line 11 of file movies1996.csv --> l996,Bogus,110,Comedy,,5.3,Norman Jewison,Haley Joel Osment,Nancy Travis,Andrea Martin
+Missing score in line 28 of file movies1996.csv --> -1996,The Fan,116,Action,R,,Tony Scott,Robert De Niro,Kurt Fuller,Ellen Barkin
+Invalid Duration in line 45 of file movies1996.csv --> 1996,Striptease,1170,Comedy,R,4.3,Andrew Bergman,Demi Moore,Rumer Willis,Paul Guilfoyle
+Invalid Year in line 67 of file movies1996.csv --> 2996,Broken Arrow,900,Action,R,60,John Woo,Delroy Lindo,Samantha Mathis,Bob Gunton
+Missing third actor in line 27 of file movies1997.csv --> 1997,Chasing Amy,113,Comedy,R,7.3,Kevin Smith,Matt Damon,Ethan Suplee,
+Missing second actor in line 13 of file movies1999.csv --> 1999,Crazy in Alabama,111,Komedy,PG-13,6.3,Antonio Banderas,Meat Loaf,,Noah Emmerich
+Missing duration in line 16 of file movies1999.csv --> l999,A Dog of Flanders,,,PG,6.3,Kevin Brodie,Bruce McGill,Cheryl Ladd,Jack Warden
+Missing first actor in line 30 of file movies1999.csv --> 2999,Foolish,384,Comedy,R,4.3,Dave Meyers,,Clifton Powell,Marla Gibbs
+Invalid Genre in line 52 of file movies1999.csv --> 1999,Snow Falling on Cedars,127,Druma,PG-13,6.8,Scott Hicks,Rick Yune,Reeve Carney,Daniel von Bargen
+Invalid Rating in line 80 of file movies1999.csv --> 1999,Random Hearts,133,Drama,RRR,5.1,Sydney Pollack,Harrison Ford,Kristin Scott Thomas,Bill Cobbs
+Missing rating in line 103 of file movies1999.csv --> -1999,The Bone Collector,118,Crime,,6.7,Phillip Noyce,Denzel Washington,Angelina Jolie Pitt,Leland Orser
+Invalid Genre in line 106 of file movies1999.csv --> 1999,The Thomas Crown Affair,113,Krime,R,6.8,John McTiernan,Mark Margolis,Faye Dunaway,Denis Leary
+Missing title in line 107 of file movies1999.csv --> 1999,,102,Adventure,PG,7.3,Dean Parisot,Alan Rickman,Enrico Colantoni,Robin Sachs
